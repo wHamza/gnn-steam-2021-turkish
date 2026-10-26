@@ -1,0 +1,4 @@
+__pycache__/
+*.npy
+steam_reviews.csv
+.ipynb_checkpoints/
